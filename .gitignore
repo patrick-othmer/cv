@@ -1,0 +1,4 @@
+config.toml
+dist/*
+public/
+static
