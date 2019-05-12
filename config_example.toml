@@ -217,6 +217,13 @@ disable404 = true
         skill = "Sketch & Photoshop"
         level = "60%"
 
+    # Know-how section
+    [params.knowhow]
+    enable = true
+    icon = "fa-rocket"
+    title = "Know-how"
+    list = ["Software Development"]
+
     # Footer section
 
     # The original template is released under the Creative Commons Attribution 3.0 License.
